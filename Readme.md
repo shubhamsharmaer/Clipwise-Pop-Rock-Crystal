@@ -56,5 +56,6 @@ In addition to the existing structure and design, I contributed the following im
   - **Large Screens**: Optimized layout and font sizes for enhanced readability and user experience on large desktop displays.
   - **Laptops**: Ensured that the layout adjusts properly for laptop screens without compromising usability.
   - **Tablets**: Added a more compact layout with touch-friendly elements for a seamless experience on tablet devices.
+  - **Mobiles**: Added a more compact layout with touch-friendly elements for a seamless experience on mobiles & smartphone devices.
 
 These changes significantly improved the overall functionality and adaptability of the application across different platforms and devices.
